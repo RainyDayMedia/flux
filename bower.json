@@ -1,0 +1,24 @@
+{
+  "name": "flux",
+  "version": "1.0.0",
+  "homepage": "https://github.com/RainyDayMedia/flux",
+  "authors": [
+    "Todd Miller <todd@rainydaymedia.net>"
+  ],
+  "description": "A blank WordPress theme based on the Bourbon/Neat sass mixin library.",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "neat": "~1.7.2",
+    "bourbon": "~4.2.3",
+    "normalize-scss": "~3.0.3"
+  }
+}

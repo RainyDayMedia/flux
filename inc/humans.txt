@@ -1,0 +1,49 @@
+   __        _    __    ____  ____  __  __
+  / /   __ _| |_  \ \  |  _ \|  _ \|  \/  |
+ | |   / _` | __|  | | | |_) | | | | |\/| |
+ | |  | (_| | |_   | | |  _ <| |_| | |  | |
+ | |   \__,_|\__|  | | |_| \_\____/|_|  |_|
+  \_\             /_/
+
+RDM = Rainy Day Media LLC
+
+CONGRATULATIONS, you found our humans.txt file!
+
+To search the Internet's nether regions for somewhat meaningless text
+files, you must be cunning and brave, intelligent and resourceful. You
+would probably be good at espionage for a secret government agency or
+make for a really good captain of a pirate ship, am I right?
+
+Let's be honest, you are a nerd. No worries though, nerd is the new
+cool and we respect that. So, if the CIA doesn't call back and you get
+sea sick, maybe you would consider joining us at Rainy Day Media LLC?
+
+http://rainydaymedia.net/
+
+────────────────────────────────────────────────────────────────────────────────
+  ____  ____  __  __  ____
+ |  _ \|  _ \|  \/  |/ ___|_ __ _____      __
+ | |_) | | | | |\/| | |   | '__/ _ \ \ /\ / /
+ |  _ <| |_| | |  | | |___| | |  __/\ V  V /
+ |_| \_\____/|_|  |_|\____|_|  \___| \_/\_/
+
+The humans responsible & technology colophon:
+
+DEVELOPERS:
+  Ed Heltzel    @ginfuru
+  Todd Miller   @toddses
+
+DESIGNERS:
+  Ed Heltzel    @ginfuru
+
+TECHNOLOGY COLOPHON:
+  Wordpress, HTML5, CSS3, Bourbon, Neat, JavaScript,
+    Gulp, Bower, SASS, Normalize, Modernizr
+
+────────────────────────────────────────────────────────────────────────────────
+
+Contacts:
+
+  support@rainydaymedia.net   — Help and general support
+  info@rainydaymedia.net      — Press information
+  @rainydaymedia              — We Tweet

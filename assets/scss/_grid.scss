@@ -1,0 +1,46 @@
+/* =Grid
+----------------------------------------------- */
+// default to a twelve column grid
+// use a column map so we can create classes like one, two instead of 1, 2
+$cols: (
+    one: 1,
+    two: 2,
+    three: 3,
+    four: 4,
+    five: 5,
+    six: 6,
+    seven: 7,
+    eight: 8,
+    nine: 9,
+    ten: 10,
+    eleven: 11,
+    twelve: 12
+);
+
+// grid helper classes
+@each $word, $num in $cols {
+    // columns (eg one column, two columns)
+    .#{$word}.columns, .#{$word}.column {
+        @include span-columns($num);
+    }
+
+    // push to the right a certain number of columns (eg push-one, push-two)
+    .push-#{$word} {
+        @include shift($num);
+    }
+}
+
+// turns <section> into a full width block
+section {
+    @include outer-container(100%);
+    position: relative;
+}
+
+// rows are centered elements, set to the global max width, with a gutter
+// on both sides
+.row {
+    @include outer-container();
+    @include row();
+    padding-left: $gutter;
+    padding-right: $gutter;
+}

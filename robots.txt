@@ -1,0 +1,41 @@
+# flux RobotsTXT
+User-agent: *
+Allow:/
+
+# Disallow these directories, url types & files-types for all BOTS
+Disallow: /cgi-bin/
+Disallow: /wp-content/upgrade/
+Disallow: /search/*/feed
+Disallow: /search/*/*
+Disallow: /readme.html
+Disallow: /license.txt
+Disallow: /*?s
+Disallow: /*?
+Disallow: /*.php$
+Disallow: /*.js$
+Disallow: /*.inc$
+Disallow: /*.css$
+Disallow: /*.gz$
+Disallow: /*.wmv$
+Disallow: /*.cgi$
+Disallow: /*.xhtml$
+Allow: /wp-content/uploads/
+Allow: /*?page=*
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Adsbot-Google
+Allow: /
+
+Users-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+User-agent: ia_archiver*
+Disallow: /
+
+User-agent: duggmirror
+Disallow: /

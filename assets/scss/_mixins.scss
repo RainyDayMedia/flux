@@ -1,0 +1,20 @@
+/* =Mixins
+----------------------------------------------- */
+// makes the background image cover the element.
+// can be passed two positional arguments
+@mixin full-bg($horizontal: center, $vertical: center) {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: $horizontal $vertical;
+}
+
+// sets the font size in rems, with a fallback in px
+// can pass a px value or unitless value
+@mixin font-size($size) {
+    @if not unitless($size) {
+        $size: $size / 1px;
+    }
+
+    font-size: $size + px;
+    font-size: rem($size);
+}

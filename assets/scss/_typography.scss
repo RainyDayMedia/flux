@@ -1,0 +1,73 @@
+/* =Typography
+----------------------------------------------- */
+// background based typography colors
+.light.typography {
+    color: get-color(black);
+
+    a {
+        color: get-color(black);
+    }
+
+    a:hover {
+        color: get-color(black);
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        color: get-color(black);
+    }
+}
+
+.dark.typography {
+    color: get-color(white);
+
+    a {
+        color: get-color(white);
+    }
+
+    a:hover {
+        color: get-color(white);
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        color: get-color(white);
+    }
+}
+
+// font styling and sizing
+p, h1, h2, h3, h4, h5, h6 {
+    color: inherit;
+}
+
+p {
+    font-family: "Open Sans";
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Open Sans";
+    color: inherit;
+}
+
+p  { @include font-size($em-base); }
+h1 { @include font-size(60); }
+h2 { @include font-size(48); }
+h3 { @include font-size(36); }
+h4 { @include font-size(30); }
+h5 { @include font-size(24); }
+h6 { @include font-size(18); }
+
+// positional helper classes
+.text-center { text-align: center; }
+.text-left   { text-align: left; }
+.text-right  { text-align: right; }
+
+// text styling helper classes
+.italic    { font-style: italic; }
+.xlight    { font-weight: 200; }
+.light     { font-weight: 300; }
+.regular   { font-weight: 400; }
+.semibold  { font-weight: 500; }
+.bold      { font-weight: 600; }
+.xbold     { font-weight: 700; }
+.uppercase { text-transform: uppercase; }
+.lowercase { text-transform: lowercase; }
+.underline { text-decoration: underline; }

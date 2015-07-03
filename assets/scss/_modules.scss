@@ -1,0 +1,17 @@
+/* =Modules
+----------------------------------------------- */
+.overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.black.overlay {
+    background-color: get-color(black);
+    opacity: 0.5;
+}
+
+.white.overlay {
+    background-color: get-color(white);
+    opacity: 0.85;
+}

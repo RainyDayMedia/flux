@@ -1,0 +1,43 @@
+/* =Layout
+----------------------------------------------- */
+// fixes the WordPress admin bar on mobile widths
+body {
+    @include media(max-width 782px) {
+        position: static;
+    }
+}
+
+// makes the footer a sticky footer
+// along with the jQuery solution, works with a dynamically sized footer.
+.site {
+    min-height: 100%;
+    position: relative;
+}
+.site-footer {
+    position: absolute;
+    bottom: 0;
+}
+
+// padding helper classes
+@for $i from 1 through 10 {
+    .padded-#{$i} {
+        padding-top: modular-scale($i);
+        padding-bottom: modular-scale($i);
+    }
+}
+
+// vertical margin helper classes
+@for $i from 1 through 10 {
+    .v-margin-#{$i} {
+        margin-top: modular-scale($i);
+    }
+}
+
+// positional helper classes
+.to-left {
+    float: left;
+}
+
+.to-right {
+    float: right;
+}

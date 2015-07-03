@@ -1,0 +1,36 @@
+/* =Colors
+----------------------------------------------- */
+// Color Map
+$colors:
+(
+    "black": #000,
+    "white": #fff
+);
+
+// get a color from the color map
+@function get-color($color) {
+    @if map-has-key($colors, $color) {
+        $color: map-get($colors, $color);
+    } @else {
+        @if type-of($color) != color {
+            @error "Color name: `#{$color}` not found."
+        }
+    }
+
+    @return $color;
+}
+
+// color classes
+@each $colorName, $color in $colors {
+    .text-#{$colorName} {
+        color: $color !important;
+    }
+
+    .bg-#{$colorName} {
+        background-color: $color !important;
+    }
+
+    .border-#{$colorName} {
+        border-color: $color !important;
+    }
+}
