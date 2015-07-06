@@ -2,6 +2,8 @@
 
 [![Join the chat at https://gitter.im/RainyDayMedia/flux](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/RainyDayMedia/flux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[![Join the chat at https://gitter.im/RainyDayMedia/flux](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/RainyDayMedia/flux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Its a WordPress theme based on [Bourbon](http://bourbon.io/) and [Bourbon Neat](http://neat.bourbon.io/)!
 
 Its essentially a blank theme that's meant for hacking and customizing. It will give you a quick start, with a basic header, footer, and index templates, as well as some of our basic functions and our growing WordPress library. We've also included [Modernizr](http://modernizr.com/) (the development version) and [Normalize.css](https://necolas.github.io/normalize.css/) (the Sass version), two really great libraries for building modern cross-browser websites.
