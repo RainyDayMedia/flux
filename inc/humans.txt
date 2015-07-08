@@ -1,3 +1,39 @@
+                                       @Q
+                                     ,QQQQg
+                                     RQQQQQQ
+                                      'QQQQQQg
+                                 Q,     RQQQQQQ
+                               {QQQQ     'BQQQQQg
+                              "QQQQQQ,     RQQQQQQ
+                                RQQQQQQ     '@QQQQQy
+                          ,Q     'BQQQQQg     %QQQQQQ
+                         QQQQQ     RQQQQQQ     'BQQQQQy
+                       ;QQQQQS^     'QQQQQQg     \QQQQQQ
+                      QQQQQQR         RQQQQQQ     '8QQQQQy
+                    {QQQQQS      Q,    'BQQQQQg     ?QQQQQQ
+                  .QQQQQSR     ;QQQQ     RQQQQQQ     '@QQQQQy
+                 @QQQQQR      QQQQQQR     'BQQQQQy     "QQQQQQ
+               ,QQQQQSL     jQQQQQS`        %QQQQQQ      8QQQQQQ
+              {QQQQQR      QQQQQSR           'BQQQQQy     "QQQQQQ
+             QQQQQS^     {QQQQQS               \QQQQQQ      @QQQQQ
+            @QQQQS      QQQQQSL                 'BQQQQQy     @QQQQQ
+           jQQQQQ^    .QQQQQR                     \QQQQQQ     @QQQQQ
+           QQQQQR     QQQQQR                       |QQQQQp    'QQQQQ
+          |QQQQQ     {QQQQQ                         @QQQQQ     @QQQQQ
+          ]QQQQQ     @QQQQU                         |QQQQQ     {QQQQQ
+          ]QQQQQ     @QQQQQ                         |QQQQS     {QQQQQ
+          |QQQQQ     |QQQQQ                         QQQQQU     @QQQQU
+           QQQQQQ     @QQQQQ                       @QQQQS      QQQQQh
+           \QQQQQ      @QQQQQy                   ,QQQQQS^     QQQQQ#
+            @QQQQQ      RQQQQQQy               ;QQQQQQR      @QQQQS
+             @QQQQQ,      RQQQQQQQQyg,, ,,;yQQQQQQQQS^      QQQQQS^
+              @QQQQQQ       "BQQQQQQQQQQQQQQQQQQQSR       ;QQQQQS
+               "QQQQQQy        'RBSSQQQQQQQQSRR^        ,QQQQQQR
+                 RQQQQQQQ,                            yQQQQQQS`
+                   RQQQQQQQQg                     ,#QQQQQQQR^
+                     "BQQQQQQQQQQy,,       ,,g#QQQQQQQQQSR
+                        ^RSQQQQQQQQQQQQQQQQQQQQQQQQQSR^
+                            `"RE#QQQQQQQQQQQQQSERR`
 
 ────────────────────────────────────────────────────────────────────────────────
   ____  ____  __  __  ____
@@ -6,7 +42,7 @@
  |  _ <| |_| | |  | | |___| | |  __/\ V  V /
  |_| \_\____/|_|  |_|\____|_|  \___| \_/\_/
 
-RAINY DAY MEDIA IS A FULL SERVICE DIGITAL AGENCY SPECIALIZES IN INTERACTIVE WEB DESIGN
+RAINY DAY MEDIA IS A FULL SERVICE DIGITAL AGENCY SPECIALIZING IN INTERACTIVE WEB DESIGN
 WHO IS PASSIONATE ABOUT CREATING CLEAN, WELL-DESIGNED, AND EASY-TO-USE PRODUCTS.
 
 The humans responsible & technology colophon:
