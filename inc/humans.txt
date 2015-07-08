@@ -33,12 +33,17 @@ DEVELOPERS:
   Ed Heltzel    @ginfuru
   Todd Miller   @toddses
 
-DESIGNERS:
+UX DESIGNERS:
   Ed Heltzel    @ginfuru
+  Todd Miller   @toddses
+
+UI Designers:
+  Ed Heltzel    @ginfuru
+  Todd Miller   @toddses
 
 TECHNOLOGY COLOPHON:
   Wordpress, HTML5, CSS3, Bourbon, Neat, JavaScript,
-    Gulp, Bower, SASS, Normalize, Modernizr
+    Gulp, Bower, SASS, Normalize, Modernizr, Sublime Text
 
 ────────────────────────────────────────────────────────────────────────────────
 
