@@ -2,7 +2,6 @@
 
 [![Join the chat at https://gitter.im/RainyDayMedia/flux](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/RainyDayMedia/flux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Join the chat at https://gitter.im/RainyDayMedia/flux](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/RainyDayMedia/flux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Its a WordPress theme based on [Bourbon](http://bourbon.io/) and [Bourbon Neat](http://neat.bourbon.io/)!
 
