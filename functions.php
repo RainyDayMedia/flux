@@ -177,6 +177,9 @@ function theme_enqueue_scripts() {
 	// Load Dashboard Overrides - for white labling
 	require get_template_directory() . '/inc/dashboard.php';
 
+	// Load Media Library Improvements and Support.
+	require get_template_directory() . '/inc/media.php';
+
 	// Add support for automatic creation of alt tags for images in the content
 	add_filter( 'the_content', 'flux_add_alt_tags', 9999 );
 
@@ -201,5 +204,4 @@ function theme_enqueue_scripts() {
     // wp 4.2.2 that causes JS errors when using SVG
     remove_action( 'wp_head', 'print_emoji_detection_script', 7 );
     remove_action( 'wp_print_styles', 'print_emoji_styles' );
-
 
