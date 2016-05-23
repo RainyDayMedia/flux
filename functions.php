@@ -166,7 +166,7 @@ function theme_enqueue_scripts() {
 	// Load Jetpack compatibility file.
 	//require get_template_directory() . '/inc/jetpack.php';
 
-	// Load Dashboard Overrides - for white labling
+	// Load Dashboard Overrides - for white labeling
 	require get_template_directory() . '/inc/dashboard.php';
 
 	// Load Media Library Improvements and Support.
