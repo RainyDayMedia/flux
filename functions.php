@@ -121,14 +121,6 @@ function flux_widgets_init()
 	*/
 
 /**
- * RICG Responsive Images plugin v2.1.1
- * It seems like this will change in the future to become part of the WordPress core,
- * at which point this will be redundant.
- * You can take this out by commenting out the include.
- */
-include_once( get_template_directory() . '/inc/ricg-responsive-images/wp-tevko-responsive-images.php' );
-
-/**
  * Include the web-admin-role plugin. This creates a Web Admin user role when the theme
  * is activated, and removes it when deactivated. We use the Web Admin role to
  * slightly limit what the client admins can do in the backend. Usually this will
