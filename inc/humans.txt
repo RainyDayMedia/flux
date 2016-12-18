@@ -49,19 +49,16 @@ The humans responsible & technology colophon:
 
 DEVELOPERS:
   Ed Heltzel    @ginfuru
-  Todd Miller   @toddses
 
 UX DESIGNERS:
   Ed Heltzel    @ginfuru
-  Todd Miller   @toddses
 
 UI Designers:
   Ed Heltzel    @ginfuru
-  Todd Miller   @toddses
 
 TECHNOLOGY COLOPHON:
   Wordpress, HTML5, CSS3, Bourbon, Neat, JavaScript,
-    Gulp, Bower, SASS, Normalize, Modernizr, Sublime Text
+    Gulp, Bower, SASS, Normalize, Modernizr, Sublime Text/Visual Studio Code
 
 ────────────────────────────────────────────────────────────────────────────────
 
