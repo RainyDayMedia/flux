@@ -1,7 +1,8 @@
 # flux
 
-[![Join the chat at https://gitter.im/RainyDayMedia/flux](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/RainyDayMedia/flux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
+[![Stories in Ready](https://badge.waffle.io/RainyDayMedia/flux.svg?label=backlog&title=Backlog)](http://waffle.io/RainyDayMedia/flux)
+[![Stories in Ready](https://badge.waffle.io/RainyDayMedia/flux.svg?label=ready&title=Ready)](http://waffle.io/RainyDayMedia/flux)
+[![Stories in Ready](https://badge.waffle.io/RainyDayMedia/flux.svg?label=In%20Progress&title=In%20Progress)](http://waffle.io/RainyDayMedia/flux)
 
 Its a WordPress theme based on [Bourbon](http://bourbon.io/) and [Bourbon Neat](http://neat.bourbon.io/)!
 
